@@ -3,3 +3,7 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+#container{
+    color: grey;
+    background-color: black;
+}
