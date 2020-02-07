@@ -2,4 +2,12 @@ body{
     color: blue;
     text-align: center;
     font-family: "Arial";
+    font-size: 20px;
+}
+footer{
+    color: green;
+    font-size: 18px;
+    font-style: italic;
+    text-align: right;
+    font-family: sans-serif;
 }
