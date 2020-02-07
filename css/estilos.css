@@ -4,6 +4,9 @@ body{
     font-family: "Arial";
 }
 #container{
-    color: grey;
-    background-color: black;
+    color: blue;
+    background-color: gray;
+}
+#container2{
+    text-align: left;
 }
