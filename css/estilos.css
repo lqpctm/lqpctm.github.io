@@ -1,13 +1,21 @@
 body{
-    color: blue;
-    text-align: center;
-    font-family: "Arial";
+    color: lightblue;
+    background-color: indigo;
     font-size: 20px;
+    text-align: center;
+    font-family: "Arial";  
 }
 footer{
-    color: green;
+    color: lightgreen;
     font-size: 18px;
     font-style: italic;
     text-align: right;
     font-family: sans-serif;
+}
+#container{
+    color: blue;
+    background-color: gray;
+}
+#container2{
+    text-align: left;
 }
