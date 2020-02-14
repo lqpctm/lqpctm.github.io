@@ -1,5 +1,10 @@
 parrafo1
-p2
-p3
+p2 trabajado en vim
+git vim (archivo.extension)
 p4
 parrafo5
+p6
+p7
+p8
+p9
+PDIEZ
