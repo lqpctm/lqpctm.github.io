@@ -1,9 +1,14 @@
 body{
-    color: lightblue;
-    background-color: slategray;
+    color: lightgreen;
+    background-color: rgb(50, 140, 230);
     font-size: 20px;
     text-align: center;
-    font-family: "Arial";  
+    font-family: sans-serif;  
+}
+#cabecera{
+    background-color: rgb(17, 58, 112);
+    border-radius: 10%;
+    margin: 3%;
 }
 footer{
     color: lightgreen;
