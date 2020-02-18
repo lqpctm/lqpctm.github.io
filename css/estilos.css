@@ -10,6 +10,9 @@ body{
     border-radius: 10%;
     margin: 3%;
 }
+#parrafocab{
+    font-size: 11px;
+}
 footer{
     color: lightgreen;
     font-size: 18px;
