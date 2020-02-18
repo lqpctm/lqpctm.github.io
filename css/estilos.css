@@ -27,3 +27,10 @@ footer{
 #container2{
     text-align: left;
 }
+#footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    background-color: navy;
+    color: paleturquoise;
+    border-radius: 2cm;
+}
